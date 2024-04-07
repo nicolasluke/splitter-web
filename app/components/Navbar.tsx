@@ -10,7 +10,7 @@ const Navbar = () => {
                 <p className="mr-5 text-teal-400 font-semibold">
                     <Link href="../LoginPage">Log in</Link>
                 </p>
-                <p className="mr-5 p-4 bg-teal-400 rounded-md text-white shadow-md hover:shadow-none font-semibold">
+                <p className="mr-5 p-4 bg-teal-400 rounded-md text-white shadow-sm shadow-slate-500 hover:shadow-none font-semibold">
                     <Link href="../SignUpPage">Sign Up</Link>
                 </p>
             </div>
